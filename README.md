@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/assets/images/logo.png" width="80" alt="Follower Analytics Logo" />
+  <img src="./src/assets/images/logo-transparent.png" width="80" alt="Follower Analytics Logo" />
 </p>
 <h1 align="center">
     Follower Analytics
