@@ -8,9 +8,6 @@
     Dive into your Instagram follower dynamics.
     <br />
 </p>
-<p align="center">
-  <img src="https://your-image-source-if-any.png" height="36px" alt="Your Alt Text Here" />
-</p>
 
 ## :wrench: Installation
 ```
