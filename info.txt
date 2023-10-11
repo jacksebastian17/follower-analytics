@@ -5,6 +5,10 @@ follower-analytics/
 |-- /src
 |    |-- /assets
 |    |    |-- /images
+|    |         |-- black-logo-transparent.jpg
+|    |         |-- black-logo.png
+|    |         |-- white-logo-transparent.png
+|    |         |-- white-logo.png
 |    |    |-- /styles
 |    |         |-- global.css
 |    |-- /components

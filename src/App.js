@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className="App">
-      <Navbar />
+      {isLoggedIn && <Navbar />}
       <div className="main-content">
         {isLoggedIn ? <Dashboard /> : <LoginPage onLogin={handleLogin} />}
       </div>
