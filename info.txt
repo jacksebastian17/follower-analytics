@@ -1,0 +1,31 @@
+follower-analytics/
+|-- /node_modules
+|-- /public
+|    |-- index.html
+|-- /src
+|    |-- /assets
+|    |    |-- /images
+|    |    |-- /styles
+|    |         |-- global.css
+|    |-- /components
+|    |    |-- /Dashboard
+|    |    |    |-- Dashboard.js
+|    |    |    |-- Dashboard.css
+|    |    |-- /LoginPage
+|    |    |    |-- LoginPage.js
+|    |    |    |-- LoginPage.css
+|    |    |-- /Navbar
+|    |    |    |-- Navbar.js
+|    |    |    |-- Navbar.css
+|    |    |-- /Footer
+|    |    |    |-- Footer.js
+|    |    |    |-- Footer.css
+|    |-- /utils
+|    |    |-- api.js
+|    |-- App.js
+|    |-- App.css
+|    |-- index.js
+|    |-- index.css
+|-- .gitignore
+|-- package-lock.json
+|-- package.json
