@@ -1,0 +1,17 @@
+.dashboard {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.dashboard ul {
+    margin-top: 20px;
+}
+
+.dashboard li {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

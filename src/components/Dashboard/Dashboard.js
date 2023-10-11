@@ -1,4 +1,5 @@
 import React from 'react';
+import './Dashboard.css';
 import { nonFollowers } from '../../utils/mockData';
 
 function Dashboard() {

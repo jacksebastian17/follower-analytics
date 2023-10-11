@@ -17,9 +17,6 @@ follower-analytics/
 |    |    |-- /Navbar
 |    |    |    |-- Navbar.js
 |    |    |    |-- Navbar.css
-|    |    |-- /Footer
-|    |    |    |-- Footer.js
-|    |    |    |-- Footer.css
 |    |-- /utils
 |    |    |-- api.js
 |    |-- App.js
